@@ -908,7 +908,8 @@ namespace Jellyfin.Plugin.AniDB.Providers.AniDB.Metadata
       }
 
       // return the main title (romaji)
-      return titlesList.FirstOrDefault(t => t.Language == "x-jat" && t.Type == "main") ??
+      return titlesList.FirstOrDefault(t => t.Language == "ja") ??
+             titlesList.FirstOrDefault(t => t.Language == "x-jat" && t.Type == "main") ??
              titlesList.FirstOrDefault(t => t.Type == "main") ??
              titlesList.FirstOrDefault();
     }

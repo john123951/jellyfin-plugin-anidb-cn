@@ -4,7 +4,7 @@ imageUrl: https://repo.jellyfin.org/releases/plugin/images/jellyfin-plugin-anidb
 version: "4.0.1"
 targetAbi: "10.7.7.0"
 framework: "net5.0"
-owner: "john123"
+owner: "john123951"
 overview: "AniDB metadata provider"
 description: >
   AniDB metadata provider

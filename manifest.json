@@ -2,8 +2,8 @@
   {
     "category": "Metadata",
     "guid": "27e60aa6-ca4f-0d5c-7cc6-98e7e142c446",
-    "name": "AniDB-Cn",
-    "description": "AniDB metadata provider\n",
+    "name": "AniDB Cn",
+    "description": "AniDB metadata provider",
     "imageUrl": "https://repo.jellyfin.org/releases/plugin/images/jellyfin-plugin-anidb.png",
     "owner": "john123951",
     "overview": "AniDB metadata provider",
