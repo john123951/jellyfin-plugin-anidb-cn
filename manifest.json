@@ -1,15 +1,15 @@
 [
   {
-    "category": "Metadata",
     "guid": "009249f8-c4da-5120-0917-767bc0062ea3",
-    "name": "AniDB-Cn",
-    "description": "AniDB metadata provider\n",
-    "imageUrl": "https://repo.jellyfin.org/releases/plugin/images/jellyfin-plugin-anidb.png",
-    "owner": "john123951",
+    "name": "AniDB Cn",
+    "description": "AniDB metadata provider",
     "overview": "AniDB metadata provider",
+    "owner": "john123951",
+    "category": "Metadata",
+    "imageUrl": "https://repo.jellyfin.org/releases/plugin/images/jellyfin-plugin-anidb.png",
     "versions": [
       {
-        "checksum": "91aa4e4088395c5663a1612c1b04f01f",
+        "checksum": "4090322a06e7c6dccf0af2d0ae3eb65e",
         "changelog": "Support Chinese Title.",
         "targetAbi": "10.8.0.0",
         "sourceUrl": "https://github.com/john123951/jellyfin-plugin-anidb-cn/releases/download/v5-cn/Jellyfin.Plugin.AniDB-Cn.zip",

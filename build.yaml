@@ -1,5 +1,5 @@
-name: "AniDB"
-guid: "a2b2a7ed-aa28-4521-a64a-63d86901f246"
+name: "AniDB-Cn"
+guid: "009249f8-c4da-5120-0917-767bc0062ea3"
 imageUrl: https://repo.jellyfin.org/releases/plugin/images/jellyfin-plugin-anidb.png
 version: "5"
 targetAbi: "10.8.0.0"
