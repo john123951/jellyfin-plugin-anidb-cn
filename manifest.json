@@ -9,7 +9,7 @@
     "imageUrl": "https://repo.jellyfin.org/releases/plugin/images/jellyfin-plugin-anidb.png",
     "versions": [
       {
-        "checksum": "8852e47b1002f9ce41dfa368444c828e",
+        "checksum": "de81518d12b880dde477c7164ea40d42",
         "changelog": "Support Chinese Title.",
         "targetAbi": "10.8.0.0",
         "sourceUrl": "https://github.com/john123951/jellyfin-plugin-anidb-cn/releases/download/v5-cn/anidb-cn_4.0.1.0.zip",
