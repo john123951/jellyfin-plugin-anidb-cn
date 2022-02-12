@@ -22,7 +22,22 @@ This plugin adds the metadata provider for [aniDB](https://anidb.net/).
 
 ## Installation
 
-[See the official documentation for install instructions](https://jellyfin.org/docs/general/server/plugins/index.html#installing).
+~~[See the official documentation for install instructions](https://jellyfin.org/docs/general/server/plugins/index.html#installing).~~
+
+In Jellyfin v10.6.0 or newer version, you can install this plugin by adding repository directly.
+
+Repository URL: https://github.com/john123951/jellyfin-plugin-anidb-cn/releases/download/v5-cn/Jellyfin.Plugin.AniDB.zip
+
+For version older than v10.6.0, please try the way below:
+
+Download from release page or compile by yourself.
+Decompress the package, and put the "AniDB-Cn" directory as the subdirectory of "plugins" in Jellyfin.
+For Linux, it's in "~/.local/jellyfin/config/plugins"
+For Mac, it's in "~/.local/share/jellyfin/plugins"
+For Docker, it's in "/config/plugins" inner Docker
+For Windows 10, it's in "C:\ProgramData\Jellyfin\Server\plugins" if using Administrator.
+For other system, if you cannot find it, please let me know.
+Restart the Jellyfin service.
 
 ## Build
 
