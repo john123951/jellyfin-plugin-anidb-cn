@@ -16,9 +16,11 @@
 </a>
 </p>
 
+
 ## About
 
 This plugin adds the metadata provider for [aniDB](https://anidb.net/).
+
 
 ## Installation
 
@@ -39,6 +41,7 @@ For Windows 10, it's in "C:\ProgramData\Jellyfin\Server\plugins" if using Admini
 For other system, if you cannot find it, please let me know.
 Restart the Jellyfin service.
 
+
 ## Build
 
 1. To build this plugin you will need [.Net 6.x](https://dotnet.microsoft.com/download/dotnet/6.0).
@@ -50,15 +53,6 @@ Restart the Jellyfin service.
 
 3. Place the dll-file in the `plugins/anidb` folder (you might need to create the folders) of your JF install
 
-## Releasing
-
-To release the plugin we recommend [JPRM](https://github.com/oddstr13/jellyfin-plugin-repository-manager) that will build and package the plugin.
-For additional context and for how to add the packaged plugin zip to a plugin manifest see the [JPRM documentation](https://github.com/oddstr13/jellyfin-plugin-repository-manager) for more info.
-
-## Contributing
-
-We welcome all contributions and pull requests! If you have a larger feature in mind please open an issue so we can discuss the implementation before you start.
-In general refer to our [contributing guidelines](https://github.com/jellyfin/.github/blob/master/CONTRIBUTING.md) for further information.
 
 ## Licence
 
