@@ -25,4 +25,13 @@ jobs:
         run: dotnet restore
 
       - name: Build
-        run: dotnet build --configuration Release --no-restore
+        run: dotnet build --configuration Release  --no-restore
+        id: jprm
+
+      - name: Upload Artifact
+        uses: actions/upload-artifact@v2
+        with:
+          name: build-artifact
+          retention-days: 30
+          if-no-files-found: error
+          path: Jellyfin.Plugin.AniDB/bin/**
