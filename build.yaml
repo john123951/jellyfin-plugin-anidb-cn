@@ -1,4 +1,4 @@
-name: "AniDB-Cn"
+name: "AniDB Cn"
 guid: "a2b2a7ed-c4da-5120-0917-767bc0062ea3"
 imageUrl: https://repo.jellyfin.org/releases/plugin/images/jellyfin-plugin-anidb.png
 version: "4.0.1"

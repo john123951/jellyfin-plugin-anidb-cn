@@ -12,7 +12,7 @@
         "checksum": "8852e47b1002f9ce41dfa368444c828e",
         "changelog": "Support Chinese Title.",
         "targetAbi": "10.8.0.0",
-        "sourceUrl": "https://github.com/Libitum/jellyfin-plugin-douban/releases/download/v2.0.0-rc1/Jellyfin.Plugin.Douban.zip",
+        "sourceUrl": "https://github.com/john123951/jellyfin-plugin-anidb-cn/releases/download/v5-cn/anidb-cn_4.0.1.0.zip",
         "timestamp": "2021-02-20T14:00:00Z",
         "version": "4.0.1.0"
       }
