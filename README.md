@@ -26,7 +26,7 @@ This plugin adds the metadata provider for [aniDB](https://anidb.net/).
 
 In Jellyfin v10.6.0 or newer version, you can install this plugin by adding repository directly.
 
-Repository URL: https://github.com/john123951/jellyfin-plugin-anidb-cn/releases/download/v5-cn/Jellyfin.Plugin.AniDB.zip
+Repository URL: https://raw.githubusercontent.com/john123951/jellyfin-plugin-anidb-cn/master/manifest.json
 
 For version older than v10.6.0, please try the way below:
 
@@ -41,7 +41,7 @@ Restart the Jellyfin service.
 
 ## Build
 
-1. To build this plugin you will need [.Net 5.x](https://dotnet.microsoft.com/download/dotnet/5.0).
+1. To build this plugin you will need [.Net 6.x](https://dotnet.microsoft.com/download/dotnet/6.0).
 
 2. Build plugin with following command
   ```

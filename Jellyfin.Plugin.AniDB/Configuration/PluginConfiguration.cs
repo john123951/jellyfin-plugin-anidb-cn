@@ -34,7 +34,7 @@ namespace Jellyfin.Plugin.AniDB.Configuration
   {
     public PluginConfiguration()
     {
-      TitlePreference = TitlePreferenceType.Localized;
+      TitlePreference = TitlePreferenceType.Chinese;
       MaxGenres = 5;
       TidyGenreList = true;
       TitleCaseGenres = false;
