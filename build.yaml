@@ -1,10 +1,10 @@
 name: "AniDB-Cn"
 guid: "a2b2a7ed-c4da-5120-0917-767bc0062ea3"
 imageUrl: https://repo.jellyfin.org/releases/plugin/images/jellyfin-plugin-anidb.png
-version: "5"
+version: "4.0.1"
 targetAbi: "10.8.0.0"
 framework: "net6.0"
-owner: "jellyfin"
+owner: "john123951"
 overview: "AniDB metadata provider"
 description: >
   AniDB metadata provider
