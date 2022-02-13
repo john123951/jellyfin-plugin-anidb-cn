@@ -9,7 +9,7 @@
     "overview": "AniDB metadata provider",
     "versions": [
       {
-        "checksum": "568a3cf2cae7c0548b1d964fd1a8dc42",
+        "checksum": "9e337d83d90aced4b9eabcb7173b4755",
         "changelog": "Support Chinese Title.",
         "targetAbi": "10.7.7.0",
         "sourceUrl": "https://github.com/john123951/jellyfin-plugin-anidb-cn/releases/download/v4/Jellyfin.Plugin.AniDB.zip",
